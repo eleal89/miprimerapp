@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Miprimerapp</string>
+    <string name="app_titulo">Bienvenido</string>
+    <string name="btn_entrar">Entrar</string>
+</resources>
